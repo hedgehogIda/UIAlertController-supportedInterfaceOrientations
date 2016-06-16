@@ -1,0 +1,4 @@
+# UIAlertController-supportedInterfaceOrientations
+
+
+UIAlertController:supportedInterfaceOrientations was invoked recursively
